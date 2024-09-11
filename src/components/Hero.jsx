@@ -9,7 +9,7 @@ const Hero = () => {
       >
         <div className="flex flex-col justify-center items-center mt-14">
           <img 
-            src="src\assets\hero.jpg" 
+            src="src/assets/hero2.jpg" 
             alt="Habesha Progeny Logo" 
             className="w-[3000px] h-auto object-contain rounded-[3000px]"
           />
